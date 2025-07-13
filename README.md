@@ -1,7 +1,3 @@
-Com certeza\! Abaixo está o `README.md` revisado, incorporando todas as suas correções e adições, como a versão do Java, as IDEs específicas e o passo a passo para o ambiente Linux.
-
------
-
 # Guia de Configuração de Ambiente para o Projeto
 
 Este guia descreve os passos necessários para configurar o ambiente de desenvolvimento para este projeto, que já está disponível no GitHub. Seguir estes passos garantirá que você possa importar, compilar e executar a aplicação Eclipse RCP corretamente.
